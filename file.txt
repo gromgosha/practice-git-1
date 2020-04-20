@@ -1,2 +1,1 @@
-My first line in project
-Paris is a capital of Frnce
+New line for test
